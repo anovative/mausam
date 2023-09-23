@@ -161,7 +161,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       .override(
                                         fontFamily: 'Readex Pro',
                                         color: FlutterFlowTheme.of(context)
-                                            .tertiary,
+                                            .primary,
                                         fontSize: 60.0,
                                       ),
                                 ),
