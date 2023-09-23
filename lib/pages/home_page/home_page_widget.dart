@@ -219,7 +219,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 10.0, 0.0, 0.0),
                                     child: Text(
-                                      '15  kmph',
+                                      '25  kmph',
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
