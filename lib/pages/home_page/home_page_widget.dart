@@ -96,7 +96,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                   Align(
                     alignment: AlignmentDirectional(0.00, 0.00),
                     child: Text(
-                      'Today, May 7th, 2021',
+                      'Today, Sep 24th, 2023',
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
                             fontFamily: 'Readex Pro',
                             color: FlutterFlowTheme.of(context).info,
