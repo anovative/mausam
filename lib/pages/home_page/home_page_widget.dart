@@ -205,7 +205,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                 mainAxisAlignment: MainAxisAlignment.start,
                                 children: [
                                   Text(
-                                    'Wind status',
+                                    'Wind Speed',
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
